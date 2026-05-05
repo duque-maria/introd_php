@@ -31,4 +31,23 @@ Se escriben en formato clave → valor (ejemplo: "nombre" => "Ana").
 
 Son ideales cuando quieres asociar etiquetas con significado a los valores, como los detalles de un usuario.
 
+## Operadores
+
+### 1. Operadores Aritméticos
+Se usan con valores numéricos para realizar operaciones matemáticas comunes.
+
+### 2. Operadores de Asignación
+El más básico es =, que asigna el valor de la derecha a la variable de la izquierda. 
+
+### 3. Operadores de Comparación
+Se utilizan para comparar dos valores y devuelven un resultado booleano (verdadero o falso).
+
+### 4. Operadores Lógicos
+Permiten combinar varias condiciones en una sola instrucción.
+
+### 5. Operadores de Incremento y Decremento
+Se usan mucho en bucles para cambiar el valor de una variable de uno en uno:
+Incremento (++): Suma 1 al valor actual.
+Decremento (--): Resta 1 al valor actual.
+
 ![Explicación](img/explicacion.png "Explicación")
